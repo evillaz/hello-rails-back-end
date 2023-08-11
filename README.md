@@ -34,26 +34,23 @@ Understand the pros and cons of different approaches of connecting Ruby on Rails
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<summary>Ruby on Rails</summary>
-  <ul>
-    <li><a href="https://guides.rubyonrails.org">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<summary>React</summary>
-  <ul>
-    <li><a href="https://react.dev/">React Js</a></li>
-  </ul>
-</details>
+  <summary>Ruby on Rails</summary>
+    <ul>
+      <li><a href="https://guides.rubyonrails.org">Ruby on Rails</a></li>
+    </ul>
+  </details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Retrieve a random message from the Messages database]**
+- **[Design an API endpoint to retrieve a random message from the database]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Front End repository
+-[Front End Repo](https://github.com/evillaz/hello-rails-front-end/)
 
 <!-- GETTING STARTED -->
 
@@ -81,7 +78,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/evillaz/hello-rails-react
+  git clone https://github.com/evillaz/hello-rails-back-end
 ```
 
 ### Install
@@ -93,13 +90,11 @@ Example command:
 
 ```sh
   bundle install
-  npm install
 ```
 
 ### Usage
 
 To running the server:
-  npm run build
   rails s
 
 To run the back end run this command in the terminal
