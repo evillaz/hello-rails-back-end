@@ -34,11 +34,11 @@ Understand the pros and cons of different approaches of connecting Ruby on Rails
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<summary>Ruby on Rails</summary>
-  <ul>
-    <li><a href="https://guides.rubyonrails.org">Ruby on Rails</a></li>
-  </ul>
-</details>
+  <summary>Ruby on Rails</summary>
+    <ul>
+      <li><a href="https://guides.rubyonrails.org">Ruby on Rails</a></li>
+    </ul>
+  </details>
 
 <!-- Features -->
 
@@ -48,6 +48,9 @@ Understand the pros and cons of different approaches of connecting Ruby on Rails
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Back End repository
+-[Back End Repo](https://github.com/evillaz/hello-rails-front-end/)
 
 <!-- GETTING STARTED -->
 
